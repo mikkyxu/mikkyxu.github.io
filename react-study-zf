@@ -1,0 +1,70 @@
+ # 1. 什么时候上课
+每周六晚19：30 - 21：30上课
+
+2. 预习资料
+有全套的预习文档，请参见这里：http://guoyongfeng.github.io/idoc/
+
+webpack
+https://github.com/wangning0/Autumn_Ning_Blog/blob/master/blogs/3-12/webpack.md
+
+react正式课的基础部分讲义：
+http://guoyongfeng.github.io/idoc/html/React%E8%AF%BE%E7%A8%8B%E4%B8%93%E9%A2%98/React%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E8%AF%A6%E8%A7%A3.html 
+这是示例：
+https://github.com/zhufengreact/zhufeng-react-tutorial
+
+3.问题
+
+https://github.com/GuoYongfeng/idoc/issues/3
+
+4.上课地址
+
+在线 https://ke.qq.com/course/101924
+
+加入tower团队名称是 珠峰React课程
+https://tower.im/join?t=192e3d662a4933f98ae6332c4116fe3c
+
+5.作业的仓库地址
+提交的github地址
+https://github.com/zhufengreact/homework# 提交作业和练习的步骤
+1. 打开讲师的作业的仓库地址
+https://github.com/zhufengreact/homework
+2. fork到你的用户下面
+3. 克隆你fork之后的项目
+```git clone 仓库地址```
+4.在201601react目录下面创建你自己的名字，然后在里面编写一个新的文件，叫xxx第一次作业.md.
+5. git add -A 提交到暂存区
+6. git commit -m"" 提交到历史区
+7. git push origin master 推送到本人的github上
+8. 发一个pull request
+9. 由讲师来合并代码
+
+
+6. 4月28号前端最佳实践视频和课件地址
+视频地址http://pan.baidu.com/s/1c20ThzM
+课件地址
+http://guoyongfeng.github.io/reveal/index.html#/
+
+Eslint
+npm install --save-dev eslint eslint-config-airbnb
+{
+    "extends": "airbnb/base",
+    "globals": {
+    "_id": true,
+    "Swipe": true,
+  }
+}
+
+7.2016年4月30日晚上7点半到9点半上React预习课
+一、主体内容 
+http://guoyongfeng.github.io/idoc/index.html
+1. 最新React学习指南
+2. Git快速上手指南
+3. 学习Git
+4. Nodejs环境配置
+5. Node.js知识详解
+6. NPM的使用方法
+7. 基本SHELL命令使用
+
+
+
+
